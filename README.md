@@ -17,11 +17,11 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Studying **Bachelor of Information Technology** at University of Sahiwal (2024–2028)
-- 📊 Also work as a **Data Analyst** — turning ideas into code & data into decisions
+- - 📊 Also work as a **Data Analyst** — turning ideas into code & data into decisions
 - 💻 Freelance web developer working with **UAE real estate** & **Pakistani e-commerce** clients
 - 🎨 Focused on **frontend development, WordPress, UI/UX design, SEO & AI integration**
 - 🚀 Currently building **[Null Space](https://null-space-developer.netlify.app)** — my personal portfolio brand
-- 🌱 Certified by University of South Asia & Bano Qabil Pakistan
+- 🌱 Certified by University of South Asia & Bano Qabil Pakistan & Google certified as Data Analyst.
 - 🤝 Volunteer at Al-Khidmat Foundation
 
 ---
@@ -29,14 +29,13 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,wordpress,figma,py,mysql,postgres,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ---
@@ -67,8 +66,8 @@
 ---
 
 <p align="center">
-  <a href="https://nullspace.vercel.app" target="_blank">🌐 Portfolio</a> •
-  <a href="mailto:youremail@example.com">✉️ Email</a> •
+  <a href="https://null-space-developer.netlify.app" target="_blank">🌐 Portfolio</a> •
+  <a href="mailto:info@solothinking.com">✉️ Email</a> •
   <a href="https://linkedin.com/in/yourprofile">💼 LinkedIn</a>
 </p>
 
