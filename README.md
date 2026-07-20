@@ -1,27 +1,27 @@
-<h1 align="center">Hi there, I'm Abdullah 👋</h1>
+<h1 align="center">Hi there, I'm M.Abdullah 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Multidisciplinary+Developer;Data+Analyst;Turning+ideas+into+code+%26+data+into+decisions;Building+Null+Space+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst;Multidisciplinary+Developer;Turning+ideas+into+code+%26+data+into+decisions;Building+Null+Space+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://nullspace.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Null%20Space-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://null-space-developer.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Null%20Space-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Based%20in-Pakistan-01411C?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pakistan-01411C?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
+- 📊 **Data Analyst** — Power BI dashboards, data cleaning & insights are my main skill now
 - 🎓 Studying **Bachelor of Information Technology** at University of Sahiwal (2024–2028)
-- - 📊 Also work as a **Data Analyst** — turning ideas into code & data into decisions
 - 💻 Freelance web developer working with **UAE real estate** & **Pakistani e-commerce** clients
-- 🎨 Focused on **frontend development, WordPress, UI/UX design, SEO & AI integration**
-- 🚀 Currently building **[Null Space](https://null-space-developer.netlify.app)** — my personal portfolio brand
-- 🌱 Certified by University of South Asia & Bano Qabil Pakistan & Google certified as Data Analyst.
+- 🎨 Also skilled in **frontend development, WordPress, UI/UX design, SEO & AI integration**
+- 🚀 Rebuilding my portfolio — **[Null Space](https://null-space-developer.netlify.app)**
+- 🌱 Certified: **Google AI Certificate**, **Data Analyst Certificate**, **Data Science Certificate**
 - 🤝 Volunteer at Al-Khidmat Foundation
 
 ---
@@ -37,6 +37,37 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
+
+---
+
+### 🚀 Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <b>🏢 Azimuth Development</b><br/>
+      UAE real estate agency website<br/>
+      <a href="https://azimuthdevelopment.ae" target="_blank">azimuthdevelopment.ae</a>
+    </td>
+    <td width="50%">
+      <b>🧠 SoloThinking</b><br/>
+      Free health & longevity tools site<br/>
+      <a href="https://solothinking.com" target="_blank">solothinking.com</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>🏗️ Infinite Imperial Ventures</b><br/>
+      Business/ventures website<br/>
+      <a href="https://iivre.com" target="_blank">iivre.com</a>
+    </td>
+    <td width="50%">
+      <b>❄️ Ajman AC Repairing</b><br/>
+      HVAC repair services website<br/>
+      <a href="https://ajmanacrepairing.com" target="_blank">ajmanacrepairing.com</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -67,8 +98,8 @@
 
 <p align="center">
   <a href="https://null-space-developer.netlify.app" target="_blank">🌐 Portfolio</a> •
-  <a href="mailto:info@solothinking.com">✉️ Email</a> •
-  <a href="https://linkedin.com/in/yourprofile">💼 LinkedIn</a>
+  <a href="mailto:xabdullahsaleem3@gmail.com">✉️ Email</a> •
+  <a href="https://www.linkedin.com/in/muhammad-abdullah-b37332370?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">💼 LinkedIn</a>
 </p>
 
 <p align="center">
