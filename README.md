@@ -17,10 +17,10 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Studying **Bachelor of Information Technology** at University of Sahiwal (2024–2028)
+- 📊 Also work as a **Data Analyst** — turning ideas into code & data into decisions
 - 💻 Freelance web developer working with **UAE real estate** & **Pakistani e-commerce** clients
 - 🎨 Focused on **frontend development, WordPress, UI/UX design, SEO & AI integration**
-- 📊 Also work as a **Data Analyst** — turning ideas into code & data into decisions
-- 🚀 Currently building **[Null Space](https://nullspace.vercel.app)** — my personal portfolio brand
+- 🚀 Currently building **[Null Space](https://null-space-developer.netlify.app)** — my personal portfolio brand
 - 🌱 Certified by University of South Asia & Bano Qabil Pakistan
 - 🤝 Volunteer at Al-Khidmat Foundation
 
