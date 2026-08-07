@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=26&pause=1500&color=2E9EF7&center=true&vCenter=true&width=700&height=70&lines=Hi+Im+Abdullah+The+Analyst" alt="Typing SVG" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%23FFFFFF&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
 </p>
@@ -78,15 +82,15 @@
     </td>
     <td width="25%" align="center">
       <b>🚔 Crime Analytics Dashboard</b><br/><br/>
-      <img src="profile-images/EV_Dashboard.png" width="100%">
+      <img src="profile-images/Crime_Dashboard.png" width="100%">
     </td>
      <td width="25%" align="center">
       <b>🛒 Superstore Sales Analysis</b><br/><br/>
-       <img src="profile-images/EV_Dashboard.png" width="100%">
+       <img src="profile-images/Store_Dashboard.png" width="100%">
     </td>
     <td width="25%" align="center">
       <b>🏬 Walmart Sales Dashboard</b><br/><br/>
-      <img src="profile-images/EV_Dashboard.png" width="100%">
+      <img src="profile-images/Walmart_Sales_Dashboard.png" width="100%">
     </td>
   </tr>
 </table>
