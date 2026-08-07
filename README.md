@@ -1,7 +1,17 @@
-<h1 align="center">Hi there, I'm M.Abdullah 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%23FFFFFF&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst;Multidisciplinary+Developer;Turning+ideas+into+code+%26+data+into+decisions;Building+Null+Space+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Abdullah+The+Analyst" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;Data+Analyst;Multidisciplinary+Developer;Turning+ideas+into+code+%26+data+into+decisions" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -40,6 +50,49 @@
 
 ---
 
+### 📊 Dashboards
+
+<!-- <p align="center">
+  <a href="https://github.com/DevbyAbdullah-web/USA-Crime-Analytics_Dashboard" target="_blank">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=DevbyAbdullah-web&repo=USA-Crime-Analytics_Dashboard&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/DevbyAbdullah-web/Electric_Vehicle_Population_Analysis_Dashboard" target="_blank">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=DevbyAbdullah-web&repo=Electric_Vehicle_Population_Analysis_Dashboard&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DevbyAbdullah-web/Superstore_Sales_Analysis" target="_blank">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=DevbyAbdullah-web&repo=Superstore_Sales_Analysis&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/DevbyAbdullah-web/Walmart-Sales-Dashboard" target="_blank">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=DevbyAbdullah-web&repo=Walmart-Sales-Dashboard&theme=tokyonight&hide_border=true" />
+  </a>
+</p> -->
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <b>⚡ EV Population Analysis</b><br/><br/>
+      <img src="profile-images/EV_Dashboard.png" width="100%">
+    </td>
+    <td width="25%" align="center">
+      <b>🚔 Crime Analytics Dashboard</b><br/><br/>
+      <img src="profile-images/EV_Dashboard.png" width="100%">
+    </td>
+     <td width="25%" align="center">
+      <b>🛒 Superstore Sales Analysis</b><br/><br/>
+       <img src="profile-images/EV_Dashboard.png" width="100%">
+    </td>
+    <td width="25%" align="center">
+      <b>🏬 Walmart Sales Dashboard</b><br/><br/>
+      <img src="profile-images/EV_Dashboard.png" width="100%">
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🚀 Projects
 
 <table>
@@ -71,19 +124,18 @@
 
 ---
 
+### 💻 Terminal Stats
+
+<p align="center">
+  <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=DevbyAbdullah-web&theme=dracula&headerStyle=mac" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DevbyAbdullah-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevbyAbdullah-web&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevbyAbdullah-web&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevbyAbdullah-web&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -96,10 +148,31 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DevbyAbdullah-web/DevbyAbdullah-web/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+### 🎯 Interests
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Analytics-2E9EF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Business_Intelligence-2E9EF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_%26_ML_Integration-2E9EF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web_Development-2E9EF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/UI%2FUX_Design-2E9EF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open_Source-2E9EF7?style=flat-square" />
+</p>
+
+---
+
 <p align="center">
   <a href="https://null-space-developer.netlify.app" target="_blank">🌐 Portfolio</a> •
-  <a href="mailto:xabdullahsaleem3@gmail.com">✉️ Email</a> •
-  <a href="https://www.linkedin.com/in/muhammad-abdullah-b37332370?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">💼 LinkedIn</a>
+  <a href="mailto:youremail@example.com">✉️ Email</a> •
+  <a href="https://linkedin.com/in/yourprofile">💼 LinkedIn</a>
 </p>
 
 <p align="center">
